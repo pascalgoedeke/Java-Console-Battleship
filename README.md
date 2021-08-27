@@ -1,5 +1,6 @@
 # Java-Console-Battleship
-Battleship Game in Java Console with Opponent AI
+Battleship Game in Java Console with Opponent AI  
+The size of the board and the amount of ships can be customised.
 
 ## Place ships  
 Before you start playing, you need to place your ships on the left board.
